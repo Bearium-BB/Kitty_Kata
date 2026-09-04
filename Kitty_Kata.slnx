@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Kitty_Kata/Kitty_Kata.vcxproj" Id="cb65e747-8d8e-40a6-965a-0c2f2a2dc815" />
+</Solution>
